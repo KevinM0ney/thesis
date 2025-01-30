@@ -248,13 +248,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\dumpDataPreview">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\half_data\ai4business_with_ai.csv">
           <value>
             <Attribute>
